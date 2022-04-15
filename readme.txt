@@ -9,6 +9,7 @@
 
 ##---------------------------------------------------------------------------------------------
 #(1)some R codes to generate proprability matrix from abundance, spatial overlap, null and obs
+# Probability matrix description
 
 #   Np.web.em: a propability matrix generated from relative abundances of EM and host plants
 #   S.overlap.EM.PL.ses: a propability matrix generated from spatial overlap for EM fungi and plants
